@@ -13,9 +13,11 @@ Daha sonra section kısmında kurabiyenin tarifi için gerekli malzemeler listel
 ![i-sectıonekran1](https://user-images.githubusercontent.com/86554799/133668674-29d0a4c8-21ac-47e6-a4e9-bec438621851.jpg)
 
 ![k-s-article2](https://user-images.githubusercontent.com/86554799/133669395-19b065bf-629b-426f-8a33-235406131c52.jpg)
-![i-sectıonekran2](https://user-images.githubusercontent.com/86554799/133669412-359a07f1-fe2f-43a2-a603-5ef48d25d5bf.jpSon olarak da footer kısmında hazırlanisi.html sayfasına ve en başa dönmesi için yönlendirdirerek index.html sayfasını tamamladım.
+![i-sectıonekran2](https://user-images.githubusercontent.com/86554799/133669412-359a07f1-fe2f-43a2-a603-5ef48d25d5bf.jpg)
+Son olarak da footer kısmında hazırlanisi.html sayfasına ve en başa dönmesi için yönlendirdirerek index.html sayfasını tamamladım.
 
-![k-footer](https://user-images.githubusercontent.com/86554799/133670558-2cd5653a-6130-4e02-a748-24d0f3bc8de2.jpg)![i-footer](https://user-images.githubusercontent.com/86554799/133670616-b6a04f1d-56aa-4e66-b009-5e26bc4b64cf.jpg)
+![k-footer](https://user-images.githubusercontent.com/86554799/133670558-2cd5653a-6130-4e02-a748-24d0f3bc8de2.jpg)
+![i-footer](https://user-images.githubusercontent.com/86554799/133670616-b6a04f1d-56aa-4e66-b009-5e26bc4b64cf.jpg)
 
 Şimdi de hazirlanisi.html sayfasında ilk basta index.html sayfasindaki headerın aynı kısmını oluşturdum.Daha sonra section kısmında article la hem kurabiyenin yapılış videosu hem de yapılışı anlatıldığı p paragrafı oluşturuldu.
 
